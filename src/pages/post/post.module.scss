@@ -1,1 +1,48 @@
-// TODO
+.imgContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.post {
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+
+  .title {
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .info {
+      display: flex;
+      gap: 1.5rem;
+
+      span {
+        gap: 0.5rem;
+        display: flex;
+        align-items: center;
+
+        p {
+          font-size: 0.875rem;
+          color: var(--test-info);
+        }
+      }
+    }
+  }
+
+  .content {
+    h2 {
+      margin-bottom: 3rem;
+      margin-top: 4rem;
+    }
+
+    a {
+      color: var(--text-highlight);
+    }
+
+    p {
+      margin-bottom: 1.5rem;
+      line-height: 1.4;
+    }
+  }
+}

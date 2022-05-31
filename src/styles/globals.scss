@@ -4,4 +4,38 @@
   padding: 0;
 }
 
-// TODO
+:root {
+  --text-highlight: #ff57b2;
+  --text-heading: #f8f8f8;
+  --text-info: #bbbbbb;
+  --background: #1a1d23;
+  --text-body: #d7d7d7;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text-body);
+  font: 400 1.125rem 'Inter';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  color: var(--text-heading);
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}

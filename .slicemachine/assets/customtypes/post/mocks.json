@@ -1,0 +1,60 @@
+{
+  "id": "0efc36e9-27ad-4c8a-bb73-8c2195e80510",
+  "uid": "delectus-dolore-dolores",
+  "type": "post",
+  "data": {
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=900&h=500&fit=crop",
+      "banner": {
+        "dimensions": {
+          "width": 1440,
+          "height": 400
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=1440&h=400&fit=crop"
+      }
+    },
+    "title": "incubate user-centric architectures",
+    "subtitle": "visualize rich markets",
+    "author": "strategize vertical experiences",
+    "content": [
+      {
+        "heading": "engineer seamless portals",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Pariatur irure eiusmod esse cupidatat nulla eiusmod velit do irure tempor. Sunt consectetur amet quis.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "incubate scalable bandwidth",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Commodo aliqua do ipsum aliqua officia reprehenderit. Amet culpa fugiat sint ex do. Duis occaecat fugiat aute aliquip enim commodo nostrud qui qui proident anim consectetur veniam quis.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "incubate next-generation e-markets",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Tempor culpa Lorem velit ea do. Non cillum voluptate eiusmod aute aliqua dolore ex dolor consequat deserunt ullamco nulla eu nisi.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
